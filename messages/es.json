@@ -1,0 +1,311 @@
+{
+  "meta": {
+    "title": "Pamukkale Global — Sourcing textil en Turquía",
+    "description": "Pamukkale Global conecta a compradores internacionales con fabricantes turcos en Denizli para toallas, albornoces, ropa de cama, textiles de hostelería y tejidos.",
+    "ogTitle": "Pamukkale Global | Sourcing textil en Turquía",
+    "keywords": "textiles turcos, toallas Denizli, sourcing textil Turquía, toallas de hotel, albornoces, ropa de cama, tejidos"
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "products": "Productos",
+    "process": "Cómo trabajamos",
+    "contact": "Contacto",
+    "quote": "Solicitar presupuesto",
+    "language": "Idioma",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú"
+  },
+  "hero": {
+    "eyebrow": "Denizli, Turquía",
+    "title": "Sourcing textil en Turquía",
+    "subtitle": "Su conexión de confianza con la red de fabricación textil de Turquía.",
+    "primary": "Solicitar presupuesto",
+    "secondary": "Ver productos"
+  },
+  "trust": {
+    "location": "Con sede en Denizli",
+    "locationHint": "Corazón del textil para el hogar en Turquía",
+    "network": "Red de fabricantes",
+    "networkHint": "Seleccionados según sus requisitos",
+    "languages": "Equipo multilingüe",
+    "languagesHint": "Inglés, español, alemán y ruso",
+    "contact": "Un único interlocutor",
+    "contactHint": "Comunicación clara en todo el proceso"
+  },
+  "about": {
+    "eyebrow": "Quiénes somos",
+    "title": "Su conexión textil en Turquía",
+    "lead": "Pamukkale Global es una marca de sourcing textil con sede en Denizli, uno de los principales centros de fabricación textil de Turquía.",
+    "p1": "Conectamos a compradores internacionales con fabricantes turcos adecuados para toallas, albornoces, ropa de cama, textiles de hostelería y tejidos.",
+    "p2": "Nuestro enfoque es sencillo: entender lo que necesitan nuestros clientes, identificar la solución de producción adecuada y facilitar una comunicación clara durante todo el proceso de sourcing.",
+    "p3": "Con acceso directo a la red de fabricación textil de Denizli y comunicación en inglés, español, alemán y ruso, nuestro objetivo es que comprar en Turquía sea más fácil, transparente y eficiente para los compradores internacionales.",
+    "missionTitle": "Nuestra misión",
+    "mission": "Construir conexiones fiables entre compradores internacionales y fabricantes textiles turcos mediante una comunicación clara, conocimiento del mercado local y soluciones de sourcing flexibles."
+  },
+  "products": {
+    "eyebrow": "Qué suministramos",
+    "title": "Grupos de producto",
+    "subtitle": "Toallas, albornoces, ropa de cama, textiles de hotel, tejidos y programas de marca propia, adaptados a su calidad, cantidad y requisitos de producción.",
+    "viewCategory": "Ver colección",
+    "viewDetails": "Ver detalles",
+    "backHome": "Volver al inicio",
+    "backTo": "Volver a {category}",
+    "related": "Productos relacionados",
+    "quoteCta": "Solicitar presupuesto de este producto",
+    "specsTitle": "Opciones habituales de sourcing",
+    "material": "Material",
+    "weight": "Peso / construcción",
+    "options": "Opciones de programa",
+    "privateLabel": "Marca propia",
+    "privateLabelText": "Podemos coordinar etiquetado, packaging y presentación según los requisitos de su marca.",
+    "certifications": "Calidad y certificaciones",
+    "certificationsText": "Cuando se requiera, podemos buscar producción con certificaciones como OEKO-TEX® o GOTS a través de nuestra red de fabricantes.",
+    "chipTowels": "Toallas",
+    "chipBathrobes": "Albornoces",
+    "chipBedding": "Ropa de cama",
+    "chipHotel": "Textiles de hotel",
+    "chipFabrics": "Tejidos",
+    "chipPrivate": "Marca propia",
+    "categories": {
+      "towels": {
+        "name": "Toallas",
+        "tagline": "Programas de rizo para retail, hotel y spa.",
+        "description": "Desde toallas de baño cotidianas hasta colecciones de hotel y playa, coordinamos programas de toallas con fabricantes de Denizli según GSM, tipo de hilo, acabado y volumen."
+      },
+      "bathrobes": {
+        "name": "Albornoces",
+        "tagline": "Colecciones para hotel, spa y retail.",
+        "description": "Suministramos albornoces kimono y con cuello chal en rizo, velour y waffle, con opciones de bordado, packaging y especificaciones de hostelería."
+      },
+      "bedding": {
+        "name": "Ropa de cama",
+        "tagline": "Sábanas, fundas nórdicas y lencería de hotel.",
+        "description": "Programas de cama de algodón en ranforce, popelín y satén, para sets de retail, marca propia y programas blancos de hotel."
+      },
+      "fabrics": {
+        "name": "Tejidos",
+        "tagline": "Tejidos de algodón para hogar y hostelería.",
+        "description": "Le ayudamos a seleccionar ranforce, satén de algodón, popelín, muselina, panamá/duck y tejidos estampados según uso final, color y cantidad."
+      }
+    },
+    "items": {
+      "bath-towels": {
+        "name": "Toallas de baño",
+        "description": "Toallas de baño suaves y absorbentes para hogar, hotel y spa. Coordinamos GSM, medida, calidad de hilo y acabado según su posicionamiento y mercado.",
+        "uses": "Colecciones retail, baños de hotel, spa y wellness"
+      },
+      "hand-towels": {
+        "name": "Toallas de mano",
+        "description": "Toallas de mano coordinadas para completar sets de baño o programas de hostelería, con colores, orillos y opciones de marca a juego.",
+        "uses": "Sets de baño, hoteles, restaurantes y aseos"
+      },
+      "face-towels": {
+        "name": "Toallas de cara",
+        "description": "Toallas compactas de cara y de invitado para spa, amenities de hotel y packs retail. Disponibles en rizo o velour, con medidas a medida.",
+        "uses": "Amenities de spa, toallas de invitado, multipacks retail"
+      },
+      "hotel-towels": {
+        "name": "Toallas de hotel",
+        "description": "Programas de toalla hotelera duraderos, con blancos o colores consistentes, orillo dobby y bordado de logo opcional, pensados para lavandería industrial.",
+        "uses": "Hoteles, resorts, alquiler de lencería y grupos de hostelería"
+      },
+      "beach-towels": {
+        "name": "Toallas de playa",
+        "description": "Toallas de playa y piscina de gran formato en rizo o velour, con opciones jacquard y estampado para resorts, clubs y marcas retail.",
+        "uses": "Resorts, beach clubs, retail y programas promocionales"
+      },
+      "kitchen-towels": {
+        "name": "Paños de cocina",
+        "description": "Paños de cocina absorbentes en rizo, waffle o tejido plano para sets retail y cocinas de hostelería.",
+        "uses": "Retail para el hogar, hoteles y restauración"
+      },
+      "hotel-bathrobes": {
+        "name": "Albornoces de hotel",
+        "description": "Albornoces de hostelería especificados para confort, durabilidad y presentación, con opciones de cuello, cinturón y bordado para hoteles y resorts.",
+        "uses": "Hoteles, resorts y residencias servidas"
+      },
+      "spa-bathrobes": {
+        "name": "Albornoces de spa",
+        "description": "Albornoces de spa más ligeros, pensados para el confort del huésped en entornos wellness, en rizo, velour o waffle.",
+        "uses": "Spas, hammams y centros de wellness"
+      },
+      "waffle-bathrobes": {
+        "name": "Albornoces waffle",
+        "description": "Albornoces de algodón waffle transpirables, de secado rápido y tacto ligero: una opción flexible para spa, verano y retail.",
+        "uses": "Spa, retail de verano y programas ligeros de hotel"
+      },
+      "terry-bathrobes": {
+        "name": "Albornoces de rizo",
+        "description": "Albornoces clásicos de rizo de algodón con un tacto envolvente. Adecuados para marcas retail y hoteles que prefieren una bata tradicional y absorbente.",
+        "uses": "Marcas retail, hoteles y colecciones para el hogar"
+      },
+      "duvet-covers": {
+        "name": "Fundas nórdicas",
+        "description": "Fundas nórdicas de algodón en ranforce, popelín o satén, desarrolladas para packaging retail o para operación hotelera, con las medidas y cierres que especifique.",
+        "uses": "Sets de cama retail y habitaciones de hotel"
+      },
+      "bed-sheets": {
+        "name": "Sábanas",
+        "description": "Sábanas encimeras en construcciones de algodón seleccionadas por tacto, durabilidad y consistencia de color, incluidos programas blancos de hotel.",
+        "uses": "Hogar, hotel e instituciones"
+      },
+      "fitted-sheets": {
+        "name": "Sábanas bajeras",
+        "description": "Sábanas bajeras con elástico y profundidad de bolsillo adecuadas para colchones retail o sistemas de cama hotelera.",
+        "uses": "Programas de colchón retail y de hostelería"
+      },
+      "pillowcases": {
+        "name": "Fundas de almohada",
+        "description": "Fundas de almohada a juego, estilo Oxford o simple, coordinadas con su programa de sábanas y fundas nórdicas.",
+        "uses": "Sets de cama, hoteles y marca propia"
+      },
+      "bedding-sets": {
+        "name": "Sets de cama",
+        "description": "Sets de cama completos con piezas coordinadas y packaging de marca propia para compradores retail.",
+        "uses": "Marcas retail y colecciones e-commerce"
+      },
+      "hotel-bed-linen": {
+        "name": "Lencería de hotel",
+        "description": "Programas de lencería hotelera duraderos, centrados en blancos consistentes, rendimiento en lavandería industrial y reposición fiable.",
+        "uses": "Hoteles, alquiler de lencería y grupos de hostelería"
+      },
+      "ranforce": {
+        "name": "Ranforce",
+        "description": "Ranforce de algodón, muy utilizado para ropa de cama en Turquía. Una opción equilibrada para programas retail y de hotel que buscan confort a volúmenes accesibles.",
+        "uses": "Fundas nórdicas, sábanas y fundas de almohada"
+      },
+      "cotton-satin": {
+        "name": "Satén de algodón",
+        "description": "Satén de algodón suave, con un brillo refinado, adecuado para ropa de cama retail premium y determinados programas de hotel.",
+        "uses": "Ropa de cama premium y hostelería"
+      },
+      "poplin": {
+        "name": "Popelín",
+        "description": "Popelín de algodón de superficie limpia y tacto fresco, utilizado para sábanas, textiles ligeros para el hogar y programas afines.",
+        "uses": "Sábanas, textiles para el hogar y usos ligeros"
+      },
+      "muslin": {
+        "name": "Muselina",
+        "description": "Muselina de algodón transpirable para textiles ligeros, programas infantiles y colecciones de verano.",
+        "uses": "Textil infantil, cama de verano y hogar"
+      },
+      "panama-duck": {
+        "name": "Panamá / Duck",
+        "description": "Tejidos de algodón panamá y duck de mayor gramaje para hogar, bolsos y aplicaciones relacionadas con tapicería.",
+        "uses": "Hogar, bolsos y uso decorativo"
+      },
+      "printed-fabrics": {
+        "name": "Tejidos estampados",
+        "description": "Tejidos de algodón estampados desarrollados según su diseño, estándares de color y tejido base, desde estampados de cama hasta colecciones para el hogar.",
+        "uses": "Ropa de cama, hogar y marca propia"
+      }
+    }
+  },
+  "process": {
+    "eyebrow": "Cómo trabajamos",
+    "title": "Un recorrido claro del briefing a la producción",
+    "subtitle": "Desde Denizli, conectamos a compradores internacionales con fabricantes adecuados según producto, calidad, cantidad y requisitos de producción.",
+    "steps": {
+      "1": {
+        "title": "Cuéntenos qué necesita",
+        "text": "Comparta las especificaciones del producto, la cantidad y sus requisitos."
+      },
+      "2": {
+        "title": "Selección de fabricante",
+        "text": "Identificamos fabricantes adecuados dentro de nuestra red."
+      },
+      "3": {
+        "title": "Muestras y presupuesto",
+        "text": "Coordinamos muestras, precios, MOQ y detalles de producción."
+      },
+      "4": {
+        "title": "Seguimiento de producción",
+        "text": "Ayudamos a coordinar la comunicación durante todo el proceso productivo."
+      },
+      "5": {
+        "title": "Calidad y exportación",
+        "text": "Apoyamos en requisitos de calidad, packaging y comunicación de exportación."
+      }
+    }
+  },
+  "why": {
+    "eyebrow": "Por qué Pamukkale Global",
+    "title": "Un sourcing más claro",
+    "items": {
+      "denizli": {
+        "title": "Con sede en Denizli",
+        "text": "Trabajamos en el corazón de la industria textil para el hogar de Turquía."
+      },
+      "network": {
+        "title": "Acceso a varios fabricantes",
+        "text": "Una red de fabricación diversa, adaptada a cada briefing."
+      },
+      "contact": {
+        "title": "Un único interlocutor",
+        "text": "Un solo contacto en Turquía para su proyecto de sourcing."
+      },
+      "languages": {
+        "title": "Comunicación internacional",
+        "text": "Inglés, español, alemán y ruso, además de turco a nivel local."
+      },
+      "flexible": {
+        "title": "Sourcing flexible",
+        "text": "Soluciones adaptadas a distintos productos, volúmenes y niveles de calidad."
+      }
+    }
+  },
+  "cta": {
+    "title": "¿Busca un proveedor textil en Turquía?",
+    "text": "Cuéntenos qué necesita. Le ayudaremos a encontrar la solución de fabricación adecuada.",
+    "button": "Hablemos"
+  },
+  "contact": {
+    "eyebrow": "Contacto",
+    "title": "Hablemos de sus necesidades textiles",
+    "subtitle": "¿Busca un producto o un fabricante textil en Turquía? Cuéntenos qué necesita y nos pondremos en contacto.",
+    "infoTitle": "Información de contacto",
+    "company": "Pamukkale Global",
+    "location": "Denizli, Turquía",
+    "email": "Correo",
+    "whatsapp": "WhatsApp",
+    "languages": "Idiomas",
+    "languagesValue": "Inglés • Español • Alemán • Ruso • Turco",
+    "formTitle": "Solicitar presupuesto",
+    "name": "Nombre y apellidos",
+    "companyName": "Empresa",
+    "country": "País",
+    "emailField": "Correo electrónico",
+    "phone": "WhatsApp / Teléfono",
+    "product": "Producto de interés",
+    "productPlaceholder": "Seleccione un producto",
+    "quantity": "Cantidad estimada",
+    "message": "Mensaje / especificaciones del producto",
+    "file": "Adjuntar foto o especificación (opcional)",
+    "fileHint": "JPG, PNG o PDF, hasta 8 MB. Si envía por WhatsApp, podrá adjuntar el archivo en el chat.",
+    "submit": "Enviar solicitud",
+    "whatsappSubmit": "Enviar por WhatsApp",
+    "emailSubmit": "Enviar por correo",
+    "required": "Complete los campos obligatorios.",
+    "successTitle": "Solicitud lista para enviar",
+    "successText": "Hemos preparado su mensaje. Complételo en WhatsApp o en su correo. Solemos responder en 1–2 días laborables.",
+    "another": "Enviar otra solicitud",
+    "other": "Otro / aún no lo sé"
+  },
+  "footer": {
+    "tagline": "Sourcing textil desde Denizli, Turquía.",
+    "products": "Productos",
+    "company": "Empresa",
+    "rights": "Todos los derechos reservados.",
+    "privacy": "Tratamos cada consulta de forma confidencial."
+  },
+  "whatsapp": {
+    "label": "Escribir por WhatsApp",
+    "prefill": "Hola Pamukkale Global, me gustaría consultar un proyecto de sourcing textil."
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "text": "La página que busca no está disponible.",
+    "home": "Volver al inicio"
+  }
+}

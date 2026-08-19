@@ -1,0 +1,311 @@
+{
+  "meta": {
+    "title": "Pamukkale Global — Textilsourcing in der Türkei",
+    "description": "Pamukkale Global verbindet internationale Einkäufer mit türkischen Herstellern in Denizli – für Handtücher, Bademäntel, Bettwäsche, Hoteltextilien und Stoffe.",
+    "ogTitle": "Pamukkale Global | Textilsourcing in der Türkei",
+    "keywords": "Türkische Textilien, Denizli Handtücher, Textilsourcing Türkei, Hotelhandtücher, Bademäntel, Bettwäsche, Stoffe"
+  },
+  "nav": {
+    "home": "Start",
+    "about": "Über uns",
+    "products": "Produkte",
+    "process": "Ablauf",
+    "contact": "Kontakt",
+    "quote": "Angebot anfragen",
+    "language": "Sprache",
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen"
+  },
+  "hero": {
+    "eyebrow": "Denizli, Türkei",
+    "title": "Textilsourcing in der Türkei",
+    "subtitle": "Ihre verlässliche Verbindung zum textilen Produktionsnetzwerk der Türkei.",
+    "primary": "Angebot anfragen",
+    "secondary": "Produkte ansehen"
+  },
+  "trust": {
+    "location": "Sitz in Denizli",
+    "locationHint": "Zentrum der türkischen Heimtextilien",
+    "network": "Herstellernetzwerk",
+    "networkHint": "Passend zu Ihren Anforderungen",
+    "languages": "Mehrsprachiges Team",
+    "languagesHint": "Englisch, Spanisch, Deutsch, Russisch",
+    "contact": "Ein Ansprechpartner",
+    "contactHint": "Klare Kommunikation im gesamten Prozess"
+  },
+  "about": {
+    "eyebrow": "Über uns",
+    "title": "Ihre Textilverbindung in der Türkei",
+    "lead": "Pamukkale Global ist eine Textilsourcing-Marke mit Sitz in Denizli, einem der führenden Textilstandorte der Türkei.",
+    "p1": "Wir verbinden internationale Einkäufer mit geeigneten türkischen Herstellern für Handtücher, Bademäntel, Bettwäsche, Hoteltextilien und Stoffe.",
+    "p2": "Unser Ansatz ist einfach: Wir verstehen, was unsere Kunden brauchen, finden die passende Produktionslösung und begleiten die Kommunikation klar durch den gesamten Sourcing-Prozess.",
+    "p3": "Mit direktem Zugang zum textilen Produktionsnetzwerk in Denizli und Kommunikation auf Englisch, Spanisch, Deutsch und Russisch machen wir das Sourcing aus der Türkei für internationale Einkäufer einfacher, transparenter und effizienter.",
+    "missionTitle": "Unsere Mission",
+    "mission": "Zuverlässige Verbindungen zwischen internationalen Einkäufern und türkischen Textilherstellern aufzubauen – durch klare Kommunikation, lokale Marktkenntnis und flexible Sourcing-Lösungen."
+  },
+  "products": {
+    "eyebrow": "Unser Sortiment",
+    "title": "Produktgruppen",
+    "subtitle": "Handtücher, Bademäntel, Bettwäsche, Hoteltextilien, Stoffe und Private-Label-Programme – abgestimmt auf Qualität, Menge und Produktionsanforderungen.",
+    "viewCategory": "Kollektion ansehen",
+    "viewDetails": "Details ansehen",
+    "backHome": "Zur Startseite",
+    "backTo": "Zurück zu {category}",
+    "related": "Ähnliche Produkte",
+    "quoteCta": "Angebot für dieses Produkt anfragen",
+    "specsTitle": "Typische Sourcing-Optionen",
+    "material": "Material",
+    "weight": "Gewicht / Konstruktion",
+    "options": "Programmoptionen",
+    "privateLabel": "Private Label",
+    "privateLabelText": "Wir koordinieren Etikettierung, Verpackung und Präsentation gemäß Ihren Markenanforderungen.",
+    "certifications": "Qualität & Zertifizierungen",
+    "certificationsText": "Bei Bedarf können wir über unser Netzwerk Produktionen mit relevanten Zertifizierungen wie OEKO-TEX® oder GOTS vermitteln.",
+    "chipTowels": "Handtücher",
+    "chipBathrobes": "Bademäntel",
+    "chipBedding": "Bettwäsche",
+    "chipHotel": "Hoteltextilien",
+    "chipFabrics": "Stoffe",
+    "chipPrivate": "Private Label",
+    "categories": {
+      "towels": {
+        "name": "Handtücher",
+        "tagline": "Frottierprogramme für Retail, Hotel und Spa.",
+        "description": "Von alltäglichen Badetüchern bis zu Hotel- und Strandkollektionen vermitteln wir Handtuchprogramme an Hersteller in Denizli – nach GSM, Garnqualität, Ausrüstung und Volumen."
+      },
+      "bathrobes": {
+        "name": "Bademäntel",
+        "tagline": "Hotel-, Spa- und Retail-Kollektionen.",
+        "description": "Wir sourcen Kimono- und Schalkragen-Bademäntel in Frottier, Velours und Waffelpikee, inklusive Stickerei, Verpackung und Hospitality-Spezifikationen."
+      },
+      "bedding": {
+        "name": "Bettwäsche",
+        "tagline": "Laken, Bettbezüge und Hotelbettwäsche.",
+        "description": "Baumwoll-Bettprogramme in Ranforce, Popeline und Satin – für Retail-Sets, Private Label und langlebige Hotel-Weißprogramme."
+      },
+      "fabrics": {
+        "name": "Stoffe",
+        "tagline": "Baumwollstoffe für Home und Hospitality.",
+        "description": "Wir helfen Ihnen beim Sourcing von Ranforce, Baumwollsatin, Popeline, Musselin, Panama/Duck und bedruckten Stoffen – je nach Endanwendung, Farbe und Menge."
+      }
+    },
+    "items": {
+      "bath-towels": {
+        "name": "Badetücher",
+        "description": "Weiche, saugfähige Badetücher für Home-, Hotel- und Spa-Programme. Wir stimmen GSM, Größe, Garnqualität und Ausrüstung auf Ihren Preis und Markt ab.",
+        "uses": "Retail-Kollektionen, Hotelbäder, Spa und Wellness"
+      },
+      "hand-towels": {
+        "name": "Handtücher",
+        "description": "Abgestimmte Handtücher für Badsets oder Hospitality-Programme, mit passenden Farben, Bordüren und Branding-Optionen.",
+        "uses": "Badsets, Hotels, Restaurants und Waschräume"
+      },
+      "face-towels": {
+        "name": "Gesichtstücher",
+        "description": "Kompakte Gesichts- und Gästetücher für Spa, Hotel-Amenities und Retail-Packs. In Frottier oder Velours, auch in Sondergrößen.",
+        "uses": "Spa-Amenities, Gästetücher, Retail-Multipacks"
+      },
+      "hotel-towels": {
+        "name": "Hotelhandtücher",
+        "description": "Robuste Hotelhandtuchprogramme mit gleichbleibendem Weiß- oder Farbstandard, Dobby-Bordüren und optionaler Logo-Stickerei – ausgelegt auf gewerbliche Wäsche.",
+        "uses": "Hotels, Resorts, Mietwäsche und Hospitality-Gruppen"
+      },
+      "beach-towels": {
+        "name": "Strandtücher",
+        "description": "Großformatige Strand- und Pooltücher in Frottier oder Velours, inklusive Jacquard und Druck für Resorts, Clubs und Retailmarken.",
+        "uses": "Resorts, Beachclubs, Retail und Promotion"
+      },
+      "kitchen-towels": {
+        "name": "Küchentücher",
+        "description": "Saugfähige Küchen- und Geschirrtücher in Frottier, Waffel oder Webware für Retail-Sets und Gastronomie.",
+        "uses": "Home-Retail, Hotels und Gastronomie"
+      },
+      "hotel-bathrobes": {
+        "name": "Hotel-Bademäntel",
+        "description": "Hospitality-Bademäntel mit Fokus auf Komfort, Haltbarkeit und Präsentation – mit Kragen-, Gürtel- und Stickoptionen für Hotel- und Resortprogramme.",
+        "uses": "Hotels, Resorts und Serviced Residences"
+      },
+      "spa-bathrobes": {
+        "name": "Spa-Bademäntel",
+        "description": "Leichtere Spa-Bademäntel für den Gästekomfort in Wellness-Umgebungen, in Frottier, Velours oder Waffel.",
+        "uses": "Spas, Hamams und Wellnesszentren"
+      },
+      "waffle-bathrobes": {
+        "name": "Waffel-Bademäntel",
+        "description": "Atmungsaktive Baumwoll-Waffelbademäntel, die schnell trocknen und leicht fallen – flexibel für Spa, Sommer und Retail.",
+        "uses": "Spa, Sommer-Retail und leichte Hotelprogramme"
+      },
+      "terry-bathrobes": {
+        "name": "Frottier-Bademäntel",
+        "description": "Klassische Baumwoll-Frottierbademäntel mit vollem Griff. Geeignet für Retailmarken und Hotels, die einen traditionellen, saugfähigen Mantel bevorzugen.",
+        "uses": "Retailmarken, Hotels und Home-Kollektionen"
+      },
+      "duvet-covers": {
+        "name": "Bettbezüge",
+        "description": "Baumwoll-Bettbezüge in Ranforce, Popeline oder Satin – für Retailverpackung oder Hotelbetrieb, in den von Ihnen vorgegebenen Größen und Verschlüssen.",
+        "uses": "Retail-Bettsets und Hotelzimmer"
+      },
+      "bed-sheets": {
+        "name": "Bettlaken",
+        "description": "Steppdecken- bzw. Oberlaken in Baumwollkonstruktionen, ausgewählt nach Griff, Haltbarkeit und Farbkonstanz – inklusive Hotel-Weißprogrammen.",
+        "uses": "Home, Hotel und Institutionen"
+      },
+      "fitted-sheets": {
+        "name": "Spannbettlaken",
+        "description": "Spannbettlaken mit Gummizug und Matratzentiefe für Retail-Matratzen oder Hotelsysteme.",
+        "uses": "Retail- und Hospitality-Matratzenprogramme"
+      },
+      "pillowcases": {
+        "name": "Kissenbezüge",
+        "description": "Passende Kissenbezüge im Oxford- oder Steckstil, abgestimmt auf Ihr Laken- und Bettbezugprogramm.",
+        "uses": "Bettsets, Hotels und Private Label"
+      },
+      "bedding-sets": {
+        "name": "Bettwäsche-Sets",
+        "description": "Komplette Bettwäsche-Sets mit abgestimmten Teilen und Private-Label-Verpackung für den Retail-Einkauf.",
+        "uses": "Retailmarken und E-Commerce-Kollektionen"
+      },
+      "hotel-bed-linen": {
+        "name": "Hotelbettwäsche",
+        "description": "Langlebige Hotelbettwäsche mit Fokus auf gleichbleibendes Weiß, industrielle Wäscheleistung und verlässliche Nachlieferung.",
+        "uses": "Hotels, Mietwäsche und Hospitality-Gruppen"
+      },
+      "ranforce": {
+        "name": "Ranforce",
+        "description": "Weiches Baumwoll-Ranforce, in der Türkei weit verbreitet für Bettwäsche. Eine ausgewogene Option für Retail- und Hotelprogramme mit gutem Komfort bei zugänglichen Mengen.",
+        "uses": "Bettbezüge, Laken und Kissenbezüge"
+      },
+      "cotton-satin": {
+        "name": "Baumwollsatin",
+        "description": "Glatter Baumwollsatin mit dezentem Glanz – geeignet für Premium-Retail-Bettwäsche und ausgewählte Hotelprogramme.",
+        "uses": "Premium-Bettwäsche und Hospitality"
+      },
+      "poplin": {
+        "name": "Popeline",
+        "description": "Knackige Baumwollpopeline mit klarer Oberfläche, eingesetzt für Laken, leichte Heimtextilien und verwandte Programme.",
+        "uses": "Laken, Heimtextilien und leichte Anwendungen"
+      },
+      "muslin": {
+        "name": "Musselin",
+        "description": "Atmungsaktiver Baumwollmusselin für leichte Heimtextilien, Babyprogramme und Sommerkollektionen.",
+        "uses": "Babytextilien, Sommerbettwäsche und Home"
+      },
+      "panama-duck": {
+        "name": "Panama / Duck",
+        "description": "Schwerere Baumwoll-Panama- und Duck-Bindungen für Home, Taschen und Polster-nahe Anwendungen.",
+        "uses": "Heimtextilien, Taschen und dekorative Nutzung"
+      },
+      "printed-fabrics": {
+        "name": "Bedruckte Stoffe",
+        "description": "Bedruckte Baumwollstoffe nach Ihrem Design, Farbstandard und Grundgewebe – von Bettwäschedrucken bis zu Home-Kollektionen.",
+        "uses": "Bettwäsche, Heimtextilien und Private Label"
+      }
+    }
+  },
+  "process": {
+    "eyebrow": "Ablauf",
+    "title": "Ein klarer Weg vom Briefing zur Produktion",
+    "subtitle": "Von Denizli aus verbinden wir internationale Einkäufer mit geeigneten Herstellern – nach Produkt, Qualität, Menge und Produktionsanforderung.",
+    "steps": {
+      "1": {
+        "title": "Sagen Sie uns, was Sie brauchen",
+        "text": "Teilen Sie Produktspezifikationen, Menge und Anforderungen mit."
+      },
+      "2": {
+        "title": "Herstellerauswahl",
+        "text": "Wir identifizieren geeignete Produzenten in unserem Netzwerk."
+      },
+      "3": {
+        "title": "Muster & Angebot",
+        "text": "Wir koordinieren Muster, Preise, MOQ und Produktionsdetails."
+      },
+      "4": {
+        "title": "Produktionsbegleitung",
+        "text": "Wir unterstützen die Kommunikation während der gesamten Produktion."
+      },
+      "5": {
+        "title": "Qualität & Export",
+        "text": "Wir helfen bei Qualitätsanforderungen, Verpackung und Exportkommunikation."
+      }
+    }
+  },
+  "why": {
+    "eyebrow": "Warum Pamukkale Global",
+    "title": "Sourcing, das klarer ist",
+    "items": {
+      "denizli": {
+        "title": "Sitz in Denizli",
+        "text": "Wir arbeiten im Zentrum der türkischen Heimtextilindustrie."
+      },
+      "network": {
+        "title": "Zugang zu mehreren Herstellern",
+        "text": "Ein vielfältiges Produktionsnetzwerk, passend zu jedem Briefing."
+      },
+      "contact": {
+        "title": "Ein Ansprechpartner",
+        "text": "Ein Gegenüber in der Türkei für Ihr Sourcing-Projekt."
+      },
+      "languages": {
+        "title": "Internationale Kommunikation",
+        "text": "Englisch, Spanisch, Deutsch und Russisch – plus Türkisch vor Ort."
+      },
+      "flexible": {
+        "title": "Flexibles Sourcing",
+        "text": "Lösungen für unterschiedliche Produkte, Mengen und Qualitätsniveaus."
+      }
+    }
+  },
+  "cta": {
+    "title": "Suchen Sie einen Textillieferanten in der Türkei?",
+    "text": "Sagen Sie uns, was Sie brauchen. Wir helfen Ihnen, die passende Produktionslösung zu finden.",
+    "button": "Sprechen wir"
+  },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "title": "Sprechen wir über Ihre Textilanforderungen",
+    "subtitle": "Suchen Sie ein Textilprodukt oder einen Hersteller in der Türkei? Teilen Sie uns mit, was Sie brauchen – wir melden uns.",
+    "infoTitle": "Kontaktinformationen",
+    "company": "Pamukkale Global",
+    "location": "Denizli, Türkei",
+    "email": "E-Mail",
+    "whatsapp": "WhatsApp",
+    "languages": "Sprachen",
+    "languagesValue": "Englisch • Spanisch • Deutsch • Russisch • Türkisch",
+    "formTitle": "Angebot anfragen",
+    "name": "Vor- und Nachname",
+    "companyName": "Unternehmen",
+    "country": "Land",
+    "emailField": "E-Mail",
+    "phone": "WhatsApp / Telefon",
+    "product": "Interessiertes Produkt",
+    "productPlaceholder": "Produkt wählen",
+    "quantity": "Geschätzte Menge",
+    "message": "Nachricht / Produktspezifikationen",
+    "file": "Produktfoto / Spezifikation hochladen (optional)",
+    "fileHint": "JPG, PNG oder PDF, bis 8 MB. Bei Versand über WhatsApp können Sie die Datei im Chat anhängen.",
+    "submit": "Anfrage senden",
+    "whatsappSubmit": "Per WhatsApp senden",
+    "emailSubmit": "Per E-Mail senden",
+    "required": "Bitte füllen Sie die Pflichtfelder aus.",
+    "successTitle": "Anfrage bereit zum Senden",
+    "successText": "Ihre Nachricht ist vorbereitet. Vervollständigen Sie sie in WhatsApp oder Ihrem E-Mail-Programm. Wir antworten in der Regel innerhalb von 1–2 Werktagen.",
+    "another": "Weitere Anfrage senden",
+    "other": "Sonstiges / noch unsicher"
+  },
+  "footer": {
+    "tagline": "Textilsourcing aus Denizli, Türkei.",
+    "products": "Produkte",
+    "company": "Unternehmen",
+    "rights": "Alle Rechte vorbehalten.",
+    "privacy": "Jede Anfrage behandeln wir vertraulich."
+  },
+  "whatsapp": {
+    "label": "Per WhatsApp schreiben",
+    "prefill": "Guten Tag Pamukkale Global, ich möchte ein Textilsourcing-Projekt besprechen."
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "text": "Die gesuchte Seite ist nicht verfügbar.",
+    "home": "Zur Startseite"
+  }
+}

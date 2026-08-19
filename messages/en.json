@@ -1,0 +1,311 @@
+{
+  "meta": {
+    "title": "Pamukkale Global — Textile Sourcing in Türkiye",
+    "description": "Pamukkale Global connects international buyers with Turkish manufacturers in Denizli for towels, bathrobes, bedding, hospitality textiles and fabrics.",
+    "ogTitle": "Pamukkale Global | Textile Sourcing in Türkiye",
+    "keywords": "Turkish textiles, Denizli towels, textile sourcing Turkey, hotel towels, bathrobes, bedding, fabrics"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "process": "How it works",
+    "contact": "Contact",
+    "quote": "Request a quote",
+    "language": "Language",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu"
+  },
+  "hero": {
+    "eyebrow": "Denizli, Türkiye",
+    "title": "Textile Sourcing in Türkiye",
+    "subtitle": "Your trusted connection to Türkiye’s textile manufacturing network.",
+    "primary": "Request a quote",
+    "secondary": "View products"
+  },
+  "trust": {
+    "location": "Based in Denizli",
+    "locationHint": "Heart of Turkish home textiles",
+    "network": "Manufacturer network",
+    "networkHint": "Matched to your requirements",
+    "languages": "Multilingual team",
+    "languagesHint": "English, Spanish, German, Russian",
+    "contact": "One point of contact",
+    "contactHint": "Clear communication throughout"
+  },
+  "about": {
+    "eyebrow": "About us",
+    "title": "Your textile connection in Türkiye",
+    "lead": "Pamukkale Global is a textile sourcing brand based in Denizli, one of Türkiye’s leading textile manufacturing hubs.",
+    "p1": "We connect international buyers with suitable Turkish manufacturers for towels, bathrobes, bedding, hospitality textiles and fabrics.",
+    "p2": "Our approach is simple: understand what our clients need, identify the right production solution and facilitate clear communication throughout the sourcing process.",
+    "p3": "With direct access to Denizli’s textile manufacturing network and communication in English, Spanish, German and Russian, we aim to make sourcing from Türkiye easier, more transparent and more efficient for international buyers.",
+    "missionTitle": "Our mission",
+    "mission": "To build reliable connections between international buyers and Turkish textile manufacturers through clear communication, local market knowledge and flexible sourcing solutions."
+  },
+  "products": {
+    "eyebrow": "What we source",
+    "title": "Product groups",
+    "subtitle": "Towels, bathrobes, bedding, hotel textiles, fabrics and private-label programs — matched to your quality, quantity and production requirements.",
+    "viewCategory": "View collection",
+    "viewDetails": "View details",
+    "backHome": "Back to home",
+    "backTo": "Back to {category}",
+    "related": "Related products",
+    "quoteCta": "Request a quote for this product",
+    "specsTitle": "Typical sourcing options",
+    "material": "Material",
+    "weight": "Weight / construction",
+    "options": "Program options",
+    "privateLabel": "Private label",
+    "privateLabelText": "We can coordinate labelling, packaging and presentation according to your brand requirements.",
+    "certifications": "Quality & certifications",
+    "certificationsText": "Where required, we can source production with relevant certifications such as OEKO-TEX® or GOTS through our manufacturing network.",
+    "chipTowels": "Towels",
+    "chipBathrobes": "Bathrobes",
+    "chipBedding": "Bedding",
+    "chipHotel": "Hotel textiles",
+    "chipFabrics": "Fabrics",
+    "chipPrivate": "Private label",
+    "categories": {
+      "towels": {
+        "name": "Towels",
+        "tagline": "Terry programs for retail, hotel and spa.",
+        "description": "From everyday bath towels to hotel and beach collections, we match towel programs with manufacturers in Denizli according to GSM, yarn type, finishing and volume."
+      },
+      "bathrobes": {
+        "name": "Bathrobes",
+        "tagline": "Hotel, spa and retail bathrobe collections.",
+        "description": "We source kimono and shawl-collar bathrobes in terry, velour and waffle constructions, with options for embroidery, packaging and hospitality specifications."
+      },
+      "bedding": {
+        "name": "Bedding",
+        "tagline": "Sheets, duvet covers and hotel bed linen.",
+        "description": "Cotton bedding programs in ranforce, poplin and satin — for retail sets, private label and durable hotel white programs."
+      },
+      "fabrics": {
+        "name": "Fabrics",
+        "tagline": "Cotton fabrics for home and hospitality.",
+        "description": "We help you source ranforce, cotton satin, poplin, muslin, panama/duck and printed fabrics according to end use, colour and quantity."
+      }
+    },
+    "items": {
+      "bath-towels": {
+        "name": "Bath towels",
+        "description": "Soft, absorbent bath towels for home, hotel and spa programs. We coordinate GSM, size, yarn quality and finishing to match your price point and market.",
+        "uses": "Retail collections, hotel bathrooms, spa and wellness"
+      },
+      "hand-towels": {
+        "name": "Hand towels",
+        "description": "Coordinated hand towels designed to complete bath sets or hospitality programs, with matching colours, borders and branding options.",
+        "uses": "Bath sets, hotels, restaurants and washrooms"
+      },
+      "face-towels": {
+        "name": "Face towels",
+        "description": "Compact face and guest towels for spa, hotel amenity and retail packs. Available in terry or velour with custom sizes.",
+        "uses": "Spa amenities, guest towels, retail multipacks"
+      },
+      "hotel-towels": {
+        "name": "Hotel towels",
+        "description": "Durable hotel towel programs with consistent white or colour standards, dobby borders and optional logo embroidery — built for commercial laundry cycles.",
+        "uses": "Hotels, resorts, rental linen and hospitality groups"
+      },
+      "beach-towels": {
+        "name": "Beach towels",
+        "description": "Large-format beach and pool towels in terry or velour, including jacquard and print options for resorts, clubs and retail brands.",
+        "uses": "Resorts, beach clubs, retail and promotional programs"
+      },
+      "kitchen-towels": {
+        "name": "Kitchen towels",
+        "description": "Absorbent kitchen and tea towels in terry, waffle or woven constructions for retail sets and hospitality kitchens.",
+        "uses": "Home retail, hotels and F&B operations"
+      },
+      "hotel-bathrobes": {
+        "name": "Hotel bathrobes",
+        "description": "Hospitality bathrobes specified for comfort, durability and presentation — with collar, belt and embroidery options for hotel and resort programs.",
+        "uses": "Hotels, resorts and serviced residences"
+      },
+      "spa-bathrobes": {
+        "name": "Spa bathrobes",
+        "description": "Lighter spa bathrobes designed for guest comfort in wellness environments, available in terry, velour or waffle.",
+        "uses": "Spas, hammams and wellness centres"
+      },
+      "waffle-bathrobes": {
+        "name": "Waffle bathrobes",
+        "description": "Breathable cotton waffle bathrobes that dry quickly and feel light — a flexible option for spa, summer and retail collections.",
+        "uses": "Spa, summer retail and lightweight hotel programs"
+      },
+      "terry-bathrobes": {
+        "name": "Terry bathrobes",
+        "description": "Classic cotton terry bathrobes with a plush handfeel. Suitable for retail brands and hotels that prefer a traditional, absorbent robe.",
+        "uses": "Retail brands, hotels and home collections"
+      },
+      "duvet-covers": {
+        "name": "Duvet covers",
+        "description": "Cotton duvet covers in ranforce, poplin or satin, developed for retail packaging or hotel operations with the sizes and closures you specify.",
+        "uses": "Retail bedding sets and hotel rooms"
+      },
+      "bed-sheets": {
+        "name": "Bed sheets",
+        "description": "Flat sheets in cotton constructions selected for handfeel, durability and colour consistency — including hotel white programs.",
+        "uses": "Home, hotel and institutional bedding"
+      },
+      "fitted-sheets": {
+        "name": "Fitted sheets",
+        "description": "Fitted sheets with elastic and pocket depths suitable for retail mattresses or hotel bed systems.",
+        "uses": "Retail and hospitality mattress programs"
+      },
+      "pillowcases": {
+        "name": "Pillowcases",
+        "description": "Matching pillowcases in Oxford or housewife styles, coordinated with your sheet and duvet program.",
+        "uses": "Bedding sets, hotels and private label"
+      },
+      "bedding-sets": {
+        "name": "Bedding sets",
+        "description": "Complete bedding sets with coordinated pieces and private-label packaging for retail buyers.",
+        "uses": "Retail brands and e-commerce collections"
+      },
+      "hotel-bed-linen": {
+        "name": "Hotel bed linen",
+        "description": "Durable hotel bed linen programs focused on consistent whites, industrial laundry performance and reliable replenishment.",
+        "uses": "Hotels, rental linen and hospitality groups"
+      },
+      "ranforce": {
+        "name": "Ranforce",
+        "description": "Soft cotton ranforce widely used for bedding in Türkiye. A balanced option for retail and hotel programs that need comfort at accessible volumes.",
+        "uses": "Duvet covers, sheets and pillowcases"
+      },
+      "cotton-satin": {
+        "name": "Cotton satin",
+        "description": "Smooth cotton satin with a refined sheen — suitable for premium retail bedding and selected hotel programs.",
+        "uses": "Premium bedding and hospitality"
+      },
+      "poplin": {
+        "name": "Poplin",
+        "description": "Crisp cotton poplin with a clean surface, used for sheets, light home textiles and selected apparel-adjacent programs.",
+        "uses": "Sheets, home textiles and light applications"
+      },
+      "muslin": {
+        "name": "Muslin",
+        "description": "Breathable cotton muslin for lightweight home textiles, baby programs and summer collections.",
+        "uses": "Baby textiles, summer bedding and home"
+      },
+      "panama-duck": {
+        "name": "Panama / Duck",
+        "description": "Heavier cotton panama and duck weaves for home, bags and upholstery-related applications.",
+        "uses": "Home textiles, bags and decorative use"
+      },
+      "printed-fabrics": {
+        "name": "Printed fabrics",
+        "description": "Printed cotton fabrics developed according to your design, colour standards and base cloth — from bedding prints to home textile collections.",
+        "uses": "Bedding, home textiles and private label"
+      }
+    }
+  },
+  "process": {
+    "eyebrow": "How it works",
+    "title": "A clear path from brief to production",
+    "subtitle": "Based in Denizli, we connect international buyers with suitable manufacturers according to product, quality, quantity and production requirements.",
+    "steps": {
+      "1": {
+        "title": "Tell us what you need",
+        "text": "Share your product specifications, quantity and requirements."
+      },
+      "2": {
+        "title": "Supplier matching",
+        "text": "We identify suitable manufacturers within our network."
+      },
+      "3": {
+        "title": "Sampling & quotation",
+        "text": "We coordinate samples, pricing, MOQ and production details."
+      },
+      "4": {
+        "title": "Production follow-up",
+        "text": "We help coordinate communication throughout the production process."
+      },
+      "5": {
+        "title": "Quality & export coordination",
+        "text": "We assist with quality requirements, packaging and export communication."
+      }
+    }
+  },
+  "why": {
+    "eyebrow": "Why Pamukkale Global",
+    "title": "Sourcing made clearer",
+    "items": {
+      "denizli": {
+        "title": "Based in Denizli",
+        "text": "We work from the heart of Türkiye’s home textile industry."
+      },
+      "network": {
+        "title": "Access to multiple manufacturers",
+        "text": "A diverse manufacturing network, matched to each brief."
+      },
+      "contact": {
+        "title": "One point of contact",
+        "text": "A single counterpart in Türkiye for your sourcing project."
+      },
+      "languages": {
+        "title": "International communication",
+        "text": "English, Spanish, German and Russian — plus Turkish locally."
+      },
+      "flexible": {
+        "title": "Flexible sourcing",
+        "text": "Solutions adapted to different products, volumes and quality levels."
+      }
+    }
+  },
+  "cta": {
+    "title": "Looking for a textile supplier in Türkiye?",
+    "text": "Tell us what you need. We’ll help you find the right manufacturing solution.",
+    "button": "Let’s talk"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let’s talk about your textile requirements",
+    "subtitle": "Looking for a textile product or manufacturer in Türkiye? Tell us what you need and we’ll get back to you.",
+    "infoTitle": "Contact information",
+    "company": "Pamukkale Global",
+    "location": "Denizli, Türkiye",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "languages": "Languages",
+    "languagesValue": "English • Spanish • German • Russian • Turkish",
+    "formTitle": "Request a quote",
+    "name": "Name / Surname",
+    "companyName": "Company name",
+    "country": "Country",
+    "emailField": "Email",
+    "phone": "WhatsApp / Phone",
+    "product": "Product interested in",
+    "productPlaceholder": "Select a product",
+    "quantity": "Estimated quantity",
+    "message": "Message / product specifications",
+    "file": "Upload product photo / specification (optional)",
+    "fileHint": "JPG, PNG or PDF, up to 8 MB. If you send via WhatsApp, you can attach the file in the chat.",
+    "submit": "Send request",
+    "whatsappSubmit": "Send via WhatsApp",
+    "emailSubmit": "Send via email",
+    "required": "Please complete the required fields.",
+    "successTitle": "Request ready to send",
+    "successText": "Your message has been prepared. Complete it in WhatsApp or your email client — we usually reply within 1–2 business days.",
+    "another": "Send another request",
+    "other": "Other / not sure yet"
+  },
+  "footer": {
+    "tagline": "Textile sourcing from Denizli, Türkiye.",
+    "products": "Products",
+    "company": "Company",
+    "rights": "All rights reserved.",
+    "privacy": "We treat every inquiry as confidential."
+  },
+  "whatsapp": {
+    "label": "Chat on WhatsApp",
+    "prefill": "Hello Pamukkale Global, I would like to discuss a textile sourcing project."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "text": "The page you are looking for is not available.",
+    "home": "Back to home"
+  }
+}

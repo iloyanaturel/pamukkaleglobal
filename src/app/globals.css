@@ -1,0 +1,57 @@
+@import "tailwindcss";
+
+:root {
+  --linen: #f4efe6;
+  --cream: #fbf8f2;
+  --sand: #e6dccb;
+  --ink: #1b1714;
+  --ink-soft: #4a433c;
+  --copper: #b45c38;
+  --copper-dark: #8d4428;
+  --gold: #c4a574;
+  --espresso: #14110e;
+}
+
+@theme inline {
+  --color-linen: #f4efe6;
+  --color-cream: #fbf8f2;
+  --color-sand: #e6dccb;
+  --color-ink: #1b1714;
+  --color-ink-soft: #4a433c;
+  --color-copper: #b45c38;
+  --color-copper-dark: #8d4428;
+  --color-gold: #c4a574;
+  --color-espresso: #14110e;
+  --font-sans: "Manrope", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-cormorant), "Cormorant Garamond", ui-serif, Georgia, serif;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 5.5rem;
+}
+
+body {
+  background: var(--cream);
+  color: var(--ink);
+}
+
+::selection {
+  background: color-mix(in oklab, var(--copper) 28%, white);
+  color: var(--ink);
+}
+
+.font-serif {
+  font-family: var(--font-cormorant), "Cormorant Garamond", ui-serif, Georgia, serif;
+}
+
+.texture-dark {
+  background-image:
+    radial-gradient(1200px 500px at 10% -10%, rgba(196, 165, 116, 0.12), transparent 55%),
+    radial-gradient(900px 400px at 90% 0%, rgba(180, 92, 56, 0.12), transparent 50%);
+}
+
+.hairline {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--gold), transparent);
+}
