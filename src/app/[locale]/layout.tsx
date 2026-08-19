@@ -39,7 +39,7 @@ export async function generateMetadata({params}: Props): Promise<Metadata> {
     title: t("title"),
     description: t("description"),
     keywords: t("keywords"),
-    metadataBase: new URL("https://pamukkaleglobal.com"),
+    metadataBase: new URL("https://pamukkaleglobal.vercel.app"),
     openGraph: {
       title: t("ogTitle"),
       description: t("description"),
@@ -49,7 +49,7 @@ export async function generateMetadata({params}: Props): Promise<Metadata> {
     },
     alternates: {
       languages: {
-        en: "/en",
+        en: "/",
         es: "/es",
         de: "/de",
         ru: "/ru",

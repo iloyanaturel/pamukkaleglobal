@@ -21,7 +21,7 @@ export function Header() {
   const [scrolled, setScrolled] = useState(false);
   const [open, setOpen] = useState(false);
   const [openForPath, setOpenForPath] = useState(pathname);
-  const isHome = pathname === "/";
+  const isHome = pathname === "/" || pathname === "/es" || pathname === "/de" || pathname === "/ru";
 
   if (openForPath !== pathname) {
     setOpenForPath(pathname);
